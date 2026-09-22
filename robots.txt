@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://huxiukk.github.io/xiangjiaoshi/sitemap.xml
